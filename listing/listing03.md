@@ -22,7 +22,7 @@ func main() {
 
 Ответ:
 ```
-		<nil>
+	<nil>
 Вывод: 	false
 
 type PathError = fs.PathError-> PathError записывает ошибку, а также операцию и путь к файлу, вызвавшие ее.(Структра с полями)
